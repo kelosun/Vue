@@ -155,7 +155,7 @@ static放不会变动的文件 assets放可能会变动的文件。
 
 上面是我写的一个小demo，其中引入了 <b>饿了么写的 ElementUI 组件</b>，和在一个组件里面引用了另一个组件然后在渲染到页面中去
 
-[动手 试试 vue-cli 案例 主要看 src 里面的内容](https://github.com/sunseekers/Vue/tree/master/online)
+[动手 试试 vue-cli 案例 主要看 src 里面的内容](./online)
 
 [vue-loader 文档](https://vue-loader.vuejs.org/zh-cn/)
 
@@ -189,7 +189,7 @@ vuex 提供两个特别有用的方法
 
 <img src='img/vuex2.png'/>
 
- [代码地址](./src)
+ [代码地址](./online/src)
 
  [详情请参考文档](https://vuex.vuejs.org/zh-cn/installation.html)
 
