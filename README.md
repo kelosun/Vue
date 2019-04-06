@@ -20,7 +20,7 @@ Vue ，React ，Angular 三大主流框架，最后我选择学习 Vue ，接触
 <p style='color:rgb(230,3,135);'> 指令</p>
 <img src='img/6.png'/><i>下面是我用 指令 写的一个小案例，刚好所有的指令都派上了用场</i>
 
-[详细请看 demo 源码](./dome1.html)
+[详细请看 demo 源码](./demo.html)
 
 <b> 自定义指令</b>
 <img src='img/directive.png'/>
